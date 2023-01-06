@@ -1,12 +1,20 @@
 
 <h1 align="center">Hub Hub Zone() </h1>
 <div align="center">
-  <img   src="https://komarev.com/ghpvc/?username=godotc"></img>
+ <div>
+    <img   src="https://komarev.com/ghpvc/?username=godotc"></img>
+ </div>
+  <div>
+   <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=godotc&layout=compact"></img>
+ </div>
+ <div>
+    <img   src="https://github-readme-stats.vercel.app/api?username=godotc&show_icons=true&theme=tokyonight"></img>
+ </div>
+
 </div>
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=godotc&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godotc&layout=compact)](https://github.com/godotc/github-readme-stats)
+
 
 
 <!--
