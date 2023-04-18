@@ -15,7 +15,7 @@
 - 📫 How to reach me:... -->
 
 - 😄 My most familar language: `C++` 
-- 💬 Ask me about cpp, solidty...
+- 💬 Ask me about cpp, solidity...
  <div>
    <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=godotc&layout=compact"></img>
  </div>
