@@ -14,7 +14,7 @@
 
 - 📫 How to reach me:... -->
 
-- 😄 My most familar language: `C++` 
+- 😄 My most familar program language: `C++` 
 - 💬 Ask me about cpp, solidity...
  <div>
    <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=godotc&layout=compact"></img>
@@ -22,8 +22,8 @@
  
 
 - 🌱 I’m currently learning `render`, `gamedev`, `rust`, `blockchain`..
-- 🤔 I’m looking for help with machine-learning and math...
-- ⚡ Fun fact: A humble worker...
+- 🤔 I’m looking for help with math...
+- ⚡ Fun fact: No surprise...
 
 
  <div>
