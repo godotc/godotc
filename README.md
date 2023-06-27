@@ -22,7 +22,7 @@
  
 
 - 🌱 I’m currently learning `render`, `gamedev`, `rust`, `blockchain`..
-- 🤔 I’m looking for help with math...
+<!-- - 🤔 I’m looking for help with math... -->
 - ⚡ Fun fact: No surprise...
 
 
