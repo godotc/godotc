@@ -12,17 +12,17 @@
 - 👯 I’m looking to collaborate on `gamedev` or `backend`... 
 
 
-- 📫 How to reach me:... -->
+- 📫 How to reach me:... 
 
 - 😄 My most familar program language: `C++` 
-- 💬 Ask me about cpp, solidity...
+- 💬 Ask me about cpp, solidity... -->
  <div>
    <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=godotc&layout=compact"></img>
  </div>
  
 
-- 🌱 I’m currently learning `render`, `gamedev`, `rust`, `blockchain`..
-<!-- - 🤔 I’m looking for help with math... -->
+<!-- - - 🌱 I’m currently learning `render`, `gamedev`, `rust`, `blockchain`..
+🤔 I’m looking for help with math... -->
 - ⚡ Fun fact: No surprise...
 
 
