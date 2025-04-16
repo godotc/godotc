@@ -9,7 +9,7 @@
 
  ### Thank you for your attention, it's nice to meet you here!!!
 
-👉Click to check my <a href="https://godotc.github.io/">Blog</a>
+<!--- 👉Click to check my <a href="https://godotc.github.io/">Blog</a> -->
 
 
 <!--- 💬 Ask me about cpp, solidity...-->
